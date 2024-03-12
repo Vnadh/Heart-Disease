@@ -1,9 +1,6 @@
 # Heart Disease Prediction using K-Nearest Neighbors (KNN) Algorithm
 
-Name RollNo
-VALLEPU VEERENDRA NADH 21761A0558
-THOTA GOPISANKAR 21761A0557
-THOTA ANJIBABU 21761A0556
+
 
 ## Abstract:
 The core idea of the project is to create a predictive model for diagnosing heart disease in individuals
