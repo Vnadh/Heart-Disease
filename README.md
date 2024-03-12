@@ -54,7 +54,7 @@ more comprehensive assessment of the model's performance.
 • accuracy 0.69 61
 • macro avg 0.69 0.69 0.69 61
 • weighted avg 0.69 0.69 0.69 61
-Conclusion:
+## Conclusion:
 In this project, a KNN algorithm was employed to predict heart disease in individuals. The model's
 accuracy and performance were evaluated using a confusion matrix and a classification report. The
 results of this project demonstrate the potential of machine learning techniques in aiding medical
@@ -62,7 +62,7 @@ professionals in diagnosing heart disease accurately.
 This project's implications extend beyond the specific use case, illustrating how data science and
 machine learning can have a significant impact on healthcare and contribute to early disease
 detection.
-References:
+## References:
 • Scikit-Learn Documentation
 • Seaborn Documentation
 • Matplotlib Documentation
